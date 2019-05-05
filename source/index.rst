@@ -1,14 +1,24 @@
-$project
+project
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+here is some test.::
 
-Look how easy it is to use:
+    print 'hello'
+    >> hello
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+Guide
+^^^^^^
+
+.. toctree::
+    :maxdepth: 3
+
+    License
+    help
+
+
+test
+======
+
 
 Features
 --------
