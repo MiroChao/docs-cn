@@ -11,7 +11,7 @@ Guide
 
 .. toctree::
     :maxdepth: 3
-    :caption: License
+    :caption: License123
 
     License
     help
