@@ -43,7 +43,11 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 # The suffix of source filenames.
-source_suffix = '.rst'
+from recommonmark.parser import CommonMarkParser
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+source_suffix = ['.rst', '.md']
 
 # The master toctree document.
 master_doc = 'index'
