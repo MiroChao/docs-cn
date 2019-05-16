@@ -1,51 +1,52 @@
-project
-========
+Documentation for CH MAKER Ed
+=============================
 
-here is some test.::
+.. Attention::
 
-    print 'hello'
-    >> hello
+    Working on it. 
+    Please be patient.
 
-Guide
-^^^^^^
+---------------
 
 .. toctree::
-    :maxdepth: 3
-    :caption: License123
+    :maxdepth: 1
+    :caption: Codecraft v1.x
 
-    License
-    help
-    markdownfile
+    Codecraft v1.x/Overview.rst
+    Codecraft v1.x/Blocks.rst
 
+---------------
 
-test
-======
+.. toctree::
+    :maxdepth: 1
+    :caption: Codecraft v2.x
 
+    Codecraft v2.x/Overview.rst
+    Codecraft v2.x/Blocks.rst
 
-Features
---------
+---------------
 
-- Be awesome
-- Make things faster
+.. toctree::
+    :maxdepth: 1
+    :caption: Grove One
 
-Installation
-------------
+    Grove One/Overview.rst
+    Grove One/Modules.rst
 
-Install $project by running:
+---------------
 
-    install project
+.. toctree::
+    :maxdepth: 1
+    :caption: Grove Zero
 
-Contribute
-----------
+    Grove Zero/Overview.rst
+    Grove Zero/Modules.rst
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+---------------
 
-Support
--------
+.. toctree::
+    :maxdepth: 1
+    :caption: micro:bit
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
+    microbit/introduction.rst
+    microbit/Microsoft MakeCode.rst
