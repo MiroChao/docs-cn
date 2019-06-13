@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, miro
+# This file is distributed under the same license as the docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: docs \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-13 14:48+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Grove One/Modules.rst:2
+msgid "G1 Modules"
+msgstr ""
+
+#: ../../Grove One/Modules.rst:6
+#: ../../Grove One/Overview.rst:6
+msgid "Working on it. Please be patient."
+msgstr ""
+
+#: ../../Grove One/Overview.rst:2
+msgid "Overview"
+msgstr ""
+
+#: ../../Grove One/index.rst:2
+msgid "Grove One"
+msgstr ""
+

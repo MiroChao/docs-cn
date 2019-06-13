@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, miro
+# This file is distributed under the same license as the docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: docs \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-13 14:48+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../index.rst:11
+msgid "Codecraft v1.x"
+msgstr ""
+
+#: ../../index.rst:20
+msgid "Codecraft v2.x"
+msgstr ""
+
+#: ../../index.rst:29
+msgid "Grove One"
+msgstr ""
+
+#: ../../index.rst:38
+msgid "Grove Zero"
+msgstr ""
+
+#: ../../index.rst:47
+msgid "micro:bit"
+msgstr ""
+
+#: ../../index.rst:2
+msgid "Documentation for CH MAKER Ed"
+msgstr "柴火在线文档"
+
+#: ../../index.rst:6
+msgid "Working on it. Please be patient."
+msgstr "正在搭建中，请耐心"
+
