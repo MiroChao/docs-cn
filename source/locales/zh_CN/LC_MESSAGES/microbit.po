@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, miro
+# This file is distributed under the same license as the docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: docs \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-13 14:48+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../microbit/Microsoft MakeCode.rst:2
+msgid "Microsft MakeCode"
+msgstr ""
+
+#: ../../microbit/Microsoft ../../microbit/introduction.rst:6 MakeCode.rst:6
+msgid "Working on it. Please be patient."
+msgstr ""
+
+#: ../../microbit/index.rst:2
+msgid "About micro:bit"
+msgstr ""
+
+#: ../../microbit/introduction.rst:2
+msgid "Introduce micro:bit"
+msgstr ""
+
