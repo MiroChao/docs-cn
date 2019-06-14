@@ -54,6 +54,7 @@ master_doc = 'index'
 # for a list of supported languages.
 language = 'zh_CN'
 locale_dirs = ['locales']
+gettext_additional_targets = ['literal-block', 'image']
 
 # -- Options for HTML output -------------------------------------------------
 
